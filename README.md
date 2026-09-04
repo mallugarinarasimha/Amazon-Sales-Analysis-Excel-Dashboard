@@ -18,3 +18,14 @@ The project process is to understand the gaming data, clean the raw data, transf
 #### DASHBOARD
 <img width="1261" height="376" alt="gaming dashboard" src="https://github.com/user-attachments/assets/9cd4f997-969b-424f-997d-7023c617b162" />
 
+## Project Insights
+The analysis provides a clear view of monthly player activity and engagement levels.
+The dashboard helps identify whether players are mostly Low, Medium, or High engaged.
+The Made Purchase analysis shows the proportion of players who make in-game purchases compared with those who do not.
+Monthly purchase analysis helps identify changes and trends in purchasing behavior over time.
+Suspicious activity analysis helps identify whether highly engaged sessions are associated with suspicious behavior.
+The suspicious-session trend helps monitor changes in abnormal activity month-by-month.
+Interactive slicers allow users to analyze the dashboard based on Year-Month, Engagement Level, Made Purchase, and Suspicious Flag.
+
+## Final Conclusion
+This project successfully transforms raw gaming platform data into an interactive Excel dashboard that provides insights into player engagement, purchasing behavior, and suspicious activity. The analysis helps gaming teams understand player behavior, monitor purchasing trends, identify unusual activity, and make data-driven decisions to improve player experience and platform performance.
