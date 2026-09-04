@@ -11,3 +11,5 @@ KPI(Questions)
 - What is the purchase trend over time (Yes vs No)?
 - Is suspicious behavior more common in highly engaged sessions?
 - What are the trends in suspicious activity over time?
+
+- <a href= "https://github.com/mallugarinarasimha/Amazon-Sales-Analysis-Excel-Dashboard/blob/main/gaming%20dashboard.png">Dataset</a>
